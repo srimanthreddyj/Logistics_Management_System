@@ -1,5 +1,4 @@
 # Logistics_Management_System
-Logistics Management System
 ## **Problem Statement:** 
 A Logistic Management System to automate tracking, optimize routes, and enhance inventory management for efficient and cost-effective supply chain operations.
 ### **Description:** 
